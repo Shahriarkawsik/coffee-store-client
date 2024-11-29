@@ -16,15 +16,17 @@ export default {
       },
       fontSize: {
         35: "35px",
+        45: "45px",
         55: "55px",
       },
       lineHeight: {
         30: "30px",
         43: "43px",
+        56: "56px",
         68: "68px",
         75: "75px",
       },
     },
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 };

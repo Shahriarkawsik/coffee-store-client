@@ -21,7 +21,7 @@ const Banner = () => {
             <h1 className="font-Rancho text-55 leading-68 text-white">
               Would you like a Cup of Delicious Coffee?
             </h1>
-            <p className="leading-30 text-white">
+            <p className="leading-30 text-white font-Raleway">
               Its coffee time - Sip & Savor - Relaxation in every sip! Get the
               nostalgia back!! Your companion of every moment!!! Enjoy the
               beautiful moments and make them memorable.
